@@ -12,4 +12,6 @@ of programming, he is interested in baseball, fighting games, and chess.
 
 Michael is pursuing a Masters in Computer Science at George Mason University. When Michael isn't Cannon Bowling you can find them reading sci-fi novels, playing with friends on [Lichess](https://lichess.org), and going for walks.
 
-TODO: Richard, Tim, Ahmed
+Richard is a Senior Computer Science Student at George Mason University. Aside from programming, he is interested in traveling, strategy games, and graphic design.
+
+TODO: Ahmed
