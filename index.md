@@ -21,56 +21,24 @@ easy to misfire a cannonball that rolls off an island into the abyss!
 
 ## Gallery
 
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
+![](img/instructions.png)
+*The rules of the game are printed at the start of the level in case the player needs to refresh their memory.*
 
-div.gallery:hover {
-  border: 1px solid #777;
-}
+![](img/cannon_arms.png)
+*The player's cannon arms have built-in laser pointers, making it easier to aim and, hopefully, get a hole-in-one.*
 
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
+![](img/background.png)
+*Our colorful skybox, inspired by 90s arcades.*
 
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
+![](img/islands.png)
+*When shooting your cannonball between islands, it's easy to miss and have your ball fall into the abyss below.*
 
-<div class="gallery">
-  <img src="img/instructions.png">
-</div>
+![](img/ditches.png)
+*If the player shoots their cannonball into one of these ditches, then they're going to have a hard time getting out.*
 
-<div class="gallery">
-  <img src="img/background.png">
-</div>
+![](img/long_range.png)
+*A player fires their cannonball towards the final section of the course.*
 
-<div class="gallery">
-  <img src="img/cannon_arms.png">
-</div>
-
-<div class="gallery">
-  <img src="img/intro_course.png">
-</div>
-
-<div class="gallery">
-  <img src="img/level1.png">
-</div>
-
-<div class="gallery">
-  <img src="img/long_range.png">
-</div>
-
-<div class="gallery">
-  <img src="img/skybox.png">
-</div>
 
 ## About us
 
