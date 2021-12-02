@@ -1,4 +1,4 @@
-# Cannon-Bowling VR
+# *Cannon-Bowling VR* by A Very Cool Team
 
 ## Overview
 
