@@ -14,4 +14,5 @@ Michael is pursuing a Masters in Computer Science at George Mason University. Wh
 
 Richard is a Senior Computer Science Student at George Mason University. Aside from programming, he is interested in traveling, strategy games, and graphic design.
 
-TODO: Ahmed
+Ahmed is a Senior at GMU majoring in Computer Science. Aside from programming,
+his hobbies include Basketball, watching shows, and playing games.
