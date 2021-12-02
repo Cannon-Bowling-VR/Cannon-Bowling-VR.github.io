@@ -1,4 +1,6 @@
-## Gallery
+---
+title: Gallery
+---
 
 ![](img/instructions.png)
 *The rules of the game are printed at the start of the level in case the player needs to refresh their memory.*

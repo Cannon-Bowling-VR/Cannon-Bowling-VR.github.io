@@ -1,4 +1,6 @@
-# Cannon-Bowling VR
+---
+title: Overview
+---
 
 ![](img/logo.png)
 

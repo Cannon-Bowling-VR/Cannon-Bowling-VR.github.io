@@ -2,8 +2,6 @@
 title: About Us
 ---
 
-## About Us
-
 ![Photo of all of our 5 team members](img/team_photo.jpg)
 *From left to right: Tim Lilly, Jacob Lewis, Michael Reed, Ahmed Mohamed, and Richard Roberts.*
 
