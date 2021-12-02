@@ -23,7 +23,10 @@ easy to misfire a cannonball that rolls off an island into the abyss!
 
 <style>
 div.gallery {
+  margin: 5px;
   border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 
 div.gallery:hover {
@@ -39,78 +42,34 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 </style>
 
-<!-- todo: make these hrefs -->
-<div class="responsive">
-  <div class="gallery">
-    <img src="img/background.png">
-  </div>
+<div class="gallery">
+  <img src="img/instructions.png">
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <img src="img/cannon_arms.png">
-  </div>
+<div class="gallery">
+  <img src="img/background.png">
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <img src="img/instructions.png">
-  </div>
+<div class="gallery">
+  <img src="img/cannon_arms.png">
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <img src="img/intro_course.png">
-  </div>
+<div class="gallery">
+  <img src="img/intro_course.png">
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <img src="img/level1.png">
-  </div>
+<div class="gallery">
+  <img src="img/level1.png">
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <img src="img/long_range.png">
-  </div>
+<div class="gallery">
+  <img src="img/long_range.png">
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <img src="img/skybox.png">
-  </div>
+<div class="gallery">
+  <img src="img/skybox.png">
 </div>
 
 ## About us
