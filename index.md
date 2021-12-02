@@ -1,4 +1,4 @@
-# *Cannon-Bowling VR* by A Very Cool Team
+# Cannon-Bowling VR
 
 ![](img/logo.png)
 
