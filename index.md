@@ -1,4 +1,4 @@
-# Cannon-Bowling VR
+## Overview
 
 We made the game *Cannon Bowling VR* (*CBVR*), which is like mini-golf but with
 the golf club replaced by an arm-mounted cannon and the hole replaced by three
@@ -17,7 +17,7 @@ easy to misfire a cannonball that rolls off an island into the abyss!
 <!-- Embed the demo from vimeo -->
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/652309900?h=6100699833" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## Team profile.
+## Team profile
 
 ![](team_photo.jpg)
 
