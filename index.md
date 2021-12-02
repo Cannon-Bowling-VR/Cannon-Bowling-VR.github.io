@@ -21,7 +21,5 @@ easy to misfire a cannonball that rolls off an island into the abyss!
 
 ## About us
 
-<figure>
-    <img src="team_photo.jpg" alt="Photo of all of our 5 team members">
-    <figcaption>Our team from left to right: Tim Lilly, Jacob Lewis, Michael Reed, Ahmed Mohamed, and Richard Roberts.</figcaption>
-</figure>
+![Photo of all of our 5 team members](team_photo.jpg)
+*From left to right: Tim Lilly, Jacob Lewis, Michael Reed, Ahmed Mohamed, and Richard Roberts.*
